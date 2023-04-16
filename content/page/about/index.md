@@ -1,6 +1,6 @@
 ---
 title: About
-description: starstar 大小事
+description: star 大小事
 date: '2023-04-15'
 aliases:
   - about-us
