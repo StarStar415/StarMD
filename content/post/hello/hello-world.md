@@ -5,10 +5,11 @@ date: 2023-04-13
 # image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 categories:
     - Test
-    # - 测试
+    # - 
+image: "/StarMD/images/avatar/starRabbit.jpg"
 ---
 
 ## Hello
 我是 Star!
-
-![](/StarMD/images/avator/starRabbit.jpg)
+<!-- $x-\inf$ -->
+![](/StarMD/images/avatar/starRabbit.jpg)
