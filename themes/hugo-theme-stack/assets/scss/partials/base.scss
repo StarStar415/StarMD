@@ -9,13 +9,13 @@ html {
 
 body {
     // background: var(--body-background);
-    background-image: url("/StarMD/images/background/starship.jpg");
+    background-image: url("/StarMD/images/background/radiata.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     margin: 0;
-    font-family: var(--base-font-family);
+    font-family: 'Comfortaa',sans-serif;
     font-size: 1.6rem;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -24,7 +24,7 @@ body {
 /* scrollbar styles for Firefox */
 * {
     scrollbar-width: auto;
-    scrollbar-color: var(--scrollbar-thumb) transparent;
+    scrollbar-color: rgb(162, 124, 181) transparent;
 }
 /**/
 
@@ -34,7 +34,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: var(--scrollbar-thumb);
+    background-color: rgb(65, 52, 65)
 }
 
 ::-webkit-scrollbar-track {
